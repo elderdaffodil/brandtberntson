@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frau Template\n"
+"POT-Creation-Date: 2013-07-18 12:52+0400\n"
+"PO-Revision-Date: 2013-07-18 12:52+0400\n"
+"Last-Translator: \n"
+"Language-Team: LizardThemes.com <support@lizardthemes.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:1
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:1
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:1
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:1
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:3
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../category.php:4
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-page.php:11 ../content-slide.php:5 ../feedback.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-page.php:12 ../content.php:23 ../feedback.php:40
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:11 ../content.php:29
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content.php:29
+msgid "Read more"
+msgstr ""
+
+#: ../content.php:32
+msgid ", "
+msgstr ""
+
+#: ../content.php:34
+msgid "Tags"
+msgstr ""
+
+#: ../feedback.php:29
+msgid "Your message has been sent successfully."
+msgstr ""
+
+#: ../feedback.php:31
+msgid "Message was not sent."
+msgstr ""
+
+#: ../feedback.php:54
+msgid "E-mail"
+msgstr ""
+
+#: ../feedback.php:62
+msgid "Name"
+msgstr ""
+
+#: ../feedback.php:63
+msgid "Email"
+msgstr ""
+
+#: ../feedback.php:64
+msgid "Subject"
+msgstr ""
+
+#: ../feedback.php:66
+msgid "Department"
+msgstr ""
+
+#: ../feedback.php:72
+msgid "Message"
+msgstr ""
+
+#: ../functions.php:395
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:453
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:453 ../functions.php:485
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:468
+msgid "Post author"
+msgstr ""
+
+#: ../functions.php:474
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:480
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:489
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:511
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../loop.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: ../loop.php:18
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../navigation.php:9
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../navigation.php:10
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../navigation.php:31
+msgid "Next page"
+msgstr ""
+
+#: ../relatedposts.php:1
+msgid "Related Posts"
+msgstr ""
+
+#: ../relatedposts.php:1
+msgid "No related posts"
+msgstr ""
+
+#: ../search.php:4
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:1
+msgid "search"
+msgstr ""
+
+#: ../tag.php:4
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../inc/dashboard.php:496
+msgid "Feedback Options"
+msgstr ""

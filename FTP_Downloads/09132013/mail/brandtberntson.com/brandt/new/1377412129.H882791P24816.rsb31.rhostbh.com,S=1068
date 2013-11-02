@@ -1,0 +1,27 @@
+Return-path: <brandtbe@rsb31.rhostbh.com>
+Envelope-to: brandt@brandtberntson.com
+Delivery-date: Sun, 25 Aug 2013 00:28:49 -0600
+Received: from localhost ([127.0.0.1]:57181 helo=rsb31.rhostbh.com)
+	by rsb31.rhostbh.com with esmtp (Exim 4.80)
+	(envelope-from <brandtbe@rsb31.rhostbh.com>)
+	id 1VDTof-0006Ry-Nj
+	for brandt@brandtberntson.com; Sun, 25 Aug 2013 00:28:49 -0600
+To: brandt@brandtberntson.com
+Subject: [Brandt Berntson] New User Registration
+X-PHP-Script: www.brandtberntson.com/wp-admin/user-new.php for 67.2.137.204
+Date: Sun, 25 Aug 2013 06:28:49 +0000
+From: brandtbe@rsb31.rhostbh.com
+Message-ID: <1b124bf8391bee8447c5f8efc0d101e8@www.brandtberntson.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.4 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset=UTF-8
+X-Identified-User: {:rsb31.rhostbh.com:brandtbe:rsb31.rhostbh.com} {sentby:program running on server}
+
+New user registration on your site Brandt Berntson:
+
+Username: davehuish
+
+E-mail: elderdaffodil@hotmail.com
+
